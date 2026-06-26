@@ -246,3 +246,11 @@ Usage:
 - `@HostBinding` binds directive properties to host element properties, styles, classes, or attributes.
 - `@Input()` (or an `@Input()` setter) allows values to be passed from the template into the directive.
 - `TemplateRef` represents the template to be rendered, while `ViewContainerRef` controls where and when that template is inserted into the DOM.
+
+
+![alt text](<Screenshot 2026-06-26 192337.png>)
+![alt text](<Screenshot 2026-06-26 192440.png>)
+
+## customif directive
+![alt text](<Screenshot 2026-06-26 192505.png>)
+![alt text](<Screenshot 2026-06-26 192620.png>)
